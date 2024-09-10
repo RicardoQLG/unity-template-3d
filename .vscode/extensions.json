@@ -1,6 +1,7 @@
 {
-    "recommendations": [
-      "visualstudiotoolsforunity.vstuc",
-      "formulahendry.dotnet"
-    ]
+  "recommendations": [
+    "visualstudiotoolsforunity.vstuc",
+    "formulahendry.dotnet",
+    "editorconfig.editorconfig"
+  ]
 }
