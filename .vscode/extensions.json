@@ -2,6 +2,7 @@
   "recommendations": [
     "visualstudiotoolsforunity.vstuc",
     "formulahendry.dotnet",
-    "editorconfig.editorconfig"
+    "editorconfig.editorconfig",
+    "kreativ-software.csharpextensions"
   ]
 }
