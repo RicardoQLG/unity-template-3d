@@ -1,0 +1,1 @@
+Para trocar o nome do projeto vá em Edit > Project Settings > Player e troque o Product Name para o novo nome.
