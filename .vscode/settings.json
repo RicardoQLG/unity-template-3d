@@ -51,5 +51,11 @@
         "temp/": true,
         "Temp/": true
     },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "omnisharp.organizeImportsOnFormat": true,
     "dotnet.defaultSolution": "Template 3D.sln"
 }
